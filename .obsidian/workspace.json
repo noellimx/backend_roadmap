@@ -4,37 +4,110 @@
     "type": "split",
     "children": [
       {
-        "id": "2a9d317572719f6d",
+        "id": "f20313c96f0b6466",
         "type": "tabs",
+        "dimension": 25,
         "children": [
           {
-            "id": "21df10c39927b10c",
+            "id": "9d3ffc99a27cb706",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "unorganised/Von Neumann Architecture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "Von Neumann Architecture"
             }
           }
         ]
       },
       {
-        "id": "f20313c96f0b6466",
+        "id": "13f42413adb1d8ac",
         "type": "tabs",
+        "dimension": 25,
         "children": [
           {
-            "id": "4774d0b8450b7a93",
+            "id": "65125ad381968873",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
+              "type": "localgraph",
+              "state": {
+                "file": "unorganised/Von Neumann Architecture.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Von Neumann Architecture"
+            }
+          }
+        ]
+      },
+      {
+        "id": "df015f057e7bc2dc",
+        "type": "tabs",
+        "dimension": 50,
+        "children": [
+          {
+            "id": "5a6760f77e9babd6",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "unorganised/Von Neumann Architecture.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": true,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.7402850567162444,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Von Neumann Architecture"
             }
           }
         ]
@@ -178,8 +251,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "21df10c39927b10c",
+  "active": "2ebbe3387d8969f4",
   "lastOpenFiles": [
-    "Welcome.md"
+    "media/png/Von_Neumann_Architecture.svg.png",
+    "unorganised/Von Neumann Architecture.md",
+    "media/Von_Neumann_Architecture.svg.png",
+    "roadmap/backend/persistence_and_caching/Memory Node Architecture/memory node architecture.md",
+    "roadmap/backend/persistence_and_caching/Persistence and Caching.md",
+    "roadmap/backend/persistence_and_caching/Storage Engines and Distributed Databases/Storage Engines.md",
+    "roadmap/backend/persistence_and_caching/Storage Engines and Distributed Databases/storage engines and distributed databases.md",
+    "roadmap/backend/persistence_and_caching/Storage Engines and Distributed Databases/Database Design.md",
+    "roadmap/backend/roadmap-backend.md",
+    "All Things Technicals.md",
+    "roadmap/backend/persistence_and_caching/Memory Node Architecture",
+    "roadmap/backend/persistence_and_caching/Storage Engines and Distributed Databases",
+    "memory architecture.md",
+    "task runbook/Tasks Plugin - Review and check your Statuses 2024-12-07 12-21-00.md",
+    "unorganised",
+    "readings",
+    "roadmap/backend/persistence_and_caching",
+    "roadmap/backend/internet/Internet.md",
+    "roadmap/backend/internet/content/network/topologies/topologies.md",
+    "roadmap/backend/internet/content/network/topologies",
+    "roadmap/backend/internet/How does the internet work?.md",
+    "roadmap/backend/internet/Untitled 1.md",
+    "roadmap/backend/internet/content/network/Communication Protocols.md",
+    "roadmap/backend/internet/content/network/Open Systems Interconnection(OSI) Model.md",
+    "roadmap/backend/internet/content/network/topologies/Cloud Computing.md",
+    "roadmap/backend/internet/content/network/topologies/Interconnection Topologies.md",
+    "roadmap/backend/internet/content/network/topologies/Edge Computing.md",
+    "media/png",
+    "media",
+    "media/png/diffie_hellman.png",
+    "roadmap/backend/internet/content/network",
+    "task runbook/Quick Reference.md",
+    "rubbish tasks.md",
+    "Communication.md",
+    "roadmap/backend/internet/content",
+    "roadmap/backend/internet/Untitled 5.md",
+    "roadmap/backend/internet/Untitled 4.md",
+    "roadmap/backend/internet/Untitled 3.md"
   ]
 }

@@ -1,0 +1,2 @@
+- [ ] memory hierarchy
+- [ ] memory virtualization

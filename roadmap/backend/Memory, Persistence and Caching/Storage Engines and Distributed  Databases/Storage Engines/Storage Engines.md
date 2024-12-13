@@ -1,0 +1,4 @@
+- [ ] relational databases
+	- [ ] [[postgres]]
+- [ ] key value stores
+- [ ] unstructured databases

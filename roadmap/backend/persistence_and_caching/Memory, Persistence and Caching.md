@@ -1,6 +1,6 @@
 
-- [[memory node architecture]]
-- [[storage engines and distributed databases]]
+- [[Memory Architecture]]
+- [[storage engines and distributed database]]
 
 
 

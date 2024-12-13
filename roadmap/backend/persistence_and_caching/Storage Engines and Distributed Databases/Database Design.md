@@ -1,3 +1,0 @@
-- [ ] design principles of databases
-	- Distributed computing
-- [ ] data structures of databases

@@ -1,2 +1,0 @@
-[[Database Design]]
-[[Storage Engines]]

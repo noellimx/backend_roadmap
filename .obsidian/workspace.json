@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "68fa9ceb625cec0b",
+        "id": "a8dd2db45e377876",
         "type": "tabs",
         "children": [
           {
-            "id": "cf14a537c49a70fa",
+            "id": "abac54c5a4580cfb",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -158,9 +158,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cf14a537c49a70fa",
+  "active": "abac54c5a4580cfb",
   "lastOpenFiles": [
+    "roadmap/backend/Real Time Communications/Unidirectional.md",
+    "roadmap/backend/Real Time Communications/Synchronsy.md",
+    "roadmap/backend/Real Time Communications/Bidirectional.md",
+    "roadmap/backend/Real Time Communications/Asynchronous.md",
+    "roadmap/backend/roadmap-backend.md",
+    "roadmap/backend/Real Time Communications/Real time",
+    "roadmap/backend/Real Time Communications",
     "roadmap/backend/systems programming/distributed computing/multithreading and multiprocessing/Threads/Threads.md",
+    "roadmap/backend/systems programming/distributed computing/multithreading and multiprocessing/Distributed Computing.md",
     "roadmap/backend/systems programming/distributed computing/multithreading and multiprocessing/Memory Consistency Model/Memory Consistency Model.md",
     "roadmap/backend/systems programming/distributed computing/multithreading and multiprocessing/Threads",
     "roadmap/backend/Memory, Persistence and Caching/Storage Engines and Distributed  Databases/Distributed Storage Design/Database Design Principles/Database Design Principles.md",
@@ -182,7 +190,6 @@
     "media/pdf/papers/Perspectives on the CAP Theorem.pdf",
     "roadmap/backend/Memory, Persistence and Caching/Memory Node Architecture/Memory Architecture.md",
     "unorganised/Code.md",
-    "roadmap/backend/systems programming/distributed computing/multithreading and multiprocessing/Distributed Computing.md",
     "roadmap/backend/Memory, Persistence and Caching/Storage Engines and Distributed  Databases/Distributed Storage Design/Cache Coherence",
     "roadmap/languages/golang/Readings.md",
     "roadmap/backend/Memory, Persistence and Caching/Storage Engines and Distributed  Databases/storage engines and distributed database.md",
@@ -190,18 +197,11 @@
     "readings/reading list.md",
     "roadmap/backend/Memory, Persistence and Caching/Memory, Persistence and Caching.md",
     "media/pdf/papers/A Primer on Memory Consistency and Cache Coherence.pdf",
-    "media/pdf/papers",
-    "media/pdf",
     "roadmap/backend/Memory, Persistence and Caching/Storage Engines and Distributed  Databases/Storage Engines/Storage Engines.md",
     "media/png/memory hierarchy.png",
     "media/png/Von_Neumann_Architecture.svg.png",
     "unorganised/Von Neumann Architecture.md",
-    "task runbook/Tasks Plugin - Review and check your Statuses 2024-12-07 12-21-00.md",
-    "task runbook/Quick Reference.md",
-    "roadmap/backend/roadmap-backend.md",
-    "roadmap/question bank/Miscellaneous.md",
     "media/Von_Neumann_Architecture.svg.png",
-    "All Things Technicals.md",
     "media/png/diffie_hellman.png"
   ]
 }

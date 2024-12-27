@@ -11,10 +11,15 @@
             "id": "abac54c5a4580cfb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "roadmap/backend/Network/Real Time Communications/Principles of Real Time Communications.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Principles of Real Time Communications"
             }
           }
         ]
@@ -160,17 +165,25 @@
   },
   "active": "abac54c5a4580cfb",
   "lastOpenFiles": [
+    "roadmap/backend/Network/Real Time Communications/Programs/Comparison - Kafka vs NATS.io.md",
+    "roadmap/backend/Network/Real Time Communications/Principles of Real Time Communications.md",
+    "roadmap/backend/Network/Real Time Communications/Programs/NATS.io.md",
+    "roadmap/backend/Network/Real Time Communications/Programs/Kafka.md",
+    "roadmap/backend/Network/Real Time Communications/Direction.md",
+    "roadmap/backend/Network/Real Time Communications/Synchronsy.md",
+    "roadmap/backend/internet/content/network/topologies/Cloud Computing.md",
+    "roadmap/backend/Systems Programming/Distributed Computing/multithreading and multiprocessing/Threads/Threads.md",
+    "roadmap/backend/Systems Programming/Distributed Computing/multithreading and multiprocessing/Memory Consistency Model/Memory Consistency Model.md",
+    "roadmap/languages/golang/Readings.md",
+    "roadmap/backend/Network/Real Time Communications/Programs",
+    "roadmap/backend/Network",
     "roadmap/backend/Real Time Communications/Unidirectional.md",
-    "roadmap/backend/Real Time Communications/Synchronsy.md",
-    "roadmap/backend/Real Time Communications/Bidirectional.md",
     "roadmap/backend/Real Time Communications/Asynchronous.md",
     "roadmap/backend/roadmap-backend.md",
     "roadmap/backend/Real Time Communications/Real time",
-    "roadmap/backend/Real Time Communications",
-    "roadmap/backend/systems programming/distributed computing/multithreading and multiprocessing/Threads/Threads.md",
-    "roadmap/backend/systems programming/distributed computing/multithreading and multiprocessing/Distributed Computing.md",
-    "roadmap/backend/systems programming/distributed computing/multithreading and multiprocessing/Memory Consistency Model/Memory Consistency Model.md",
-    "roadmap/backend/systems programming/distributed computing/multithreading and multiprocessing/Threads",
+    "roadmap/backend/Network/Real Time Communications",
+    "roadmap/backend/Systems Programming/Distributed Computing/multithreading and multiprocessing/Distributed Computing.md",
+    "roadmap/backend/Systems Programming/Distributed Computing/multithreading and multiprocessing/Threads",
     "roadmap/backend/Memory, Persistence and Caching/Storage Engines and Distributed  Databases/Distributed Storage Design/Database Design Principles/Database Design Principles.md",
     "roadmap/backend/Memory, Persistence and Caching/Storage Engines and Distributed  Databases/Distributed Storage Design/Database Design Principles/CAP and PACELC Theorem.md",
     "roadmap/backend/Memory, Persistence and Caching/Storage Engines and Distributed  Databases/Distributed Storage Design/Concurrency Control/Concurrency Control.md",
@@ -191,16 +204,8 @@
     "roadmap/backend/Memory, Persistence and Caching/Memory Node Architecture/Memory Architecture.md",
     "unorganised/Code.md",
     "roadmap/backend/Memory, Persistence and Caching/Storage Engines and Distributed  Databases/Distributed Storage Design/Cache Coherence",
-    "roadmap/languages/golang/Readings.md",
-    "roadmap/backend/Memory, Persistence and Caching/Storage Engines and Distributed  Databases/storage engines and distributed database.md",
-    "media/pdf/papers/A Primer on Memory Consistency and Cache Coherence - 2nd Edition.pdf",
-    "readings/reading list.md",
-    "roadmap/backend/Memory, Persistence and Caching/Memory, Persistence and Caching.md",
-    "media/pdf/papers/A Primer on Memory Consistency and Cache Coherence.pdf",
-    "roadmap/backend/Memory, Persistence and Caching/Storage Engines and Distributed  Databases/Storage Engines/Storage Engines.md",
     "media/png/memory hierarchy.png",
     "media/png/Von_Neumann_Architecture.svg.png",
-    "unorganised/Von Neumann Architecture.md",
     "media/Von_Neumann_Architecture.svg.png",
     "media/png/diffie_hellman.png"
   ]

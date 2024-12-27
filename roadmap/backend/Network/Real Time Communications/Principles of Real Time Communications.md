@@ -1,0 +1,15 @@
+
+- [ ] Topology
+	- Clustering
+	- Multiplexing
+		- M subscribers to N publishers
+- [ ] Message Queue
+	- [ ] Synchronsy
+		- [ ] Temporal Decoupling of Publishers and Subscribers
+	- [ ] Ordering
+- [ ] Reliability and Durability
+	- [ ] Delivery Guarantees
+	- [ ] Dead-letter queues
+	- [ ] Replayability
+- [ ] Pub/Sub
+	- [ ] Push vs Pull

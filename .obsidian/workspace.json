@@ -224,14 +224,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2ebbe3387d8969f4",
+  "active": "aab4ce21eb7f9501",
   "lastOpenFiles": [
+    "roadmap/backend/Security/Cryptography/Diffe Helmann/Diffie-Hellman_Key_Exchange.md",
+    "roadmap/backend/Security/Protocols/Transport Layer Security.md",
     "roadmap/backend/Security/Protocols",
     "roadmap/backend/internet/content/network/Communication Protocols.md",
-    "roadmap/backend/Security/Protocols/Transport Layer Security.md",
     "roadmap/backend/internet/Internet.md",
     "media/png/diffie_hellman.png",
-    "roadmap/backend/Security/Cryptography/Diffe Helmann/Diffie-Hellman_Key_Exchange.md",
     "media/png/diffie_hellman2.png",
     "media/png/Von_Neumann_Architecture.svg.png",
     "media/png/Diffie-Hellman_Key_Exchange.png",
@@ -272,7 +272,6 @@
     "media/png/Consistency Model_jepson.png",
     "media/png/Consistency Model.png",
     "media/png/截圖 2024-12-19 上午3.44.03.png",
-    "roadmap/backend/Memory, Persistence and Caching/Storage Engines and Distributed  Databases/Distributed Storage Design/Concurrency Control/Database Locks.md",
-    "roadmap/backend/Memory, Persistence and Caching/Storage Engines and Distributed  Databases/Distributed Storage Design/Untitled/Untitled"
+    "roadmap/backend/Memory, Persistence and Caching/Storage Engines and Distributed  Databases/Distributed Storage Design/Concurrency Control/Database Locks.md"
   ]
 }

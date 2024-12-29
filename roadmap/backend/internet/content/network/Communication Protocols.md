@@ -30,8 +30,8 @@
 		- sends TLS version options, cipher suite options, client random
 	- sever Hello
 		- select TLS version and cipher suite, server random and cert
-	- client verify certificate through Certificate Authority (match cert's public key, identity, sign method etc)
-	- key exchange: obtain shared secret using diffe helmann
+	- client verify server's certificate through Certificate Authority (match cert's public key, identity, sign method etc)
+	- key exchange: obtain shared secret using [[Diffie-Hellman_Key_Exchange]]
 		- Agree on a prime G and mod p
 		- ![[diffie_hellman.png]]
 

@@ -4,23 +4,68 @@
     "type": "split",
     "children": [
       {
-        "id": "a8dd2db45e377876",
+        "id": "c6e906a65b27b4ef",
         "type": "tabs",
         "children": [
           {
-            "id": "abac54c5a4580cfb",
+            "id": "23a343df176446c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "roadmap/backend/Network/Real Time Communications/Principles of Real Time Communications.md",
+                "file": "roadmap/backend/internet/content/network/Communication Protocols.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Principles of Real Time Communications"
-            }
+              "title": "Communication Protocols"
+            },
+            "group": "475e7691198173dd"
+          }
+        ]
+      },
+      {
+        "id": "a18772977084d00e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a72725bcac5b108b",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "roadmap/backend/internet/content/network/Communication Protocols.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 3,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": true,
+                  "showAttachments": true,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Communication Protocols"
+            },
+            "group": "475e7691198173dd"
           }
         ]
       }
@@ -53,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "smtp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -163,18 +208,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "abac54c5a4580cfb",
+  "active": "23a343df176446c6",
   "lastOpenFiles": [
-    "roadmap/backend/Network/Real Time Communications/Programs/Comparison - Kafka vs NATS.io.md",
+    "media/png/diffie_hellman.png",
+    "roadmap/backend/Security/Protocols/Diffe Helmann/Diffie-Hellman_Key_Exchange.md",
+    "roadmap/backend/internet/content/network/Communication Protocols.md",
+    "media/png/diffie_hellman2.png",
+    "media/png/Von_Neumann_Architecture.svg.png",
+    "media/png/Diffie-Hellman_Key_Exchange.png",
+    "media/png/download.png",
+    "media/png/Diffie-Hellman_Key_Exchange.svg.png",
+    "roadmap/backend/Security/Protocols/Diffe Helmann/Untitled.canvas",
+    "roadmap/backend/Security/Protocols/Diffe Helmann",
+    "roadmap/backend/Security/Protocols",
+    "roadmap/backend/Security",
+    "roadmap/backend/Untitled.md",
+    "roadmap/backend/Untitled.canvas",
+    "roadmap/languages/golang/Readings.md",
+    "roadmap/backend/Systems Programming/Distributed Computing/multithreading and multiprocessing/Threads/Kavya Joshi.png",
+    "roadmap/backend/Systems Programming/Distributed Computing/multithreading and multiprocessing/Threads/Processes and Threads.md",
     "roadmap/backend/Network/Real Time Communications/Principles of Real Time Communications.md",
+    "roadmap/backend/Network/Real Time Communications/Programs/Comparison - Kafka vs NATS.io.md",
     "roadmap/backend/Network/Real Time Communications/Programs/NATS.io.md",
     "roadmap/backend/Network/Real Time Communications/Programs/Kafka.md",
     "roadmap/backend/Network/Real Time Communications/Direction.md",
     "roadmap/backend/Network/Real Time Communications/Synchronsy.md",
     "roadmap/backend/internet/content/network/topologies/Cloud Computing.md",
-    "roadmap/backend/Systems Programming/Distributed Computing/multithreading and multiprocessing/Threads/Threads.md",
     "roadmap/backend/Systems Programming/Distributed Computing/multithreading and multiprocessing/Memory Consistency Model/Memory Consistency Model.md",
-    "roadmap/languages/golang/Readings.md",
     "roadmap/backend/Network/Real Time Communications/Programs",
     "roadmap/backend/Network",
     "roadmap/backend/Real Time Communications/Unidirectional.md",
@@ -196,17 +256,6 @@
     "roadmap/backend/Memory, Persistence and Caching/Storage Engines and Distributed  Databases/Distributed Storage Design/Concurrency Control/Database Locks.md",
     "roadmap/backend/Memory, Persistence and Caching/Storage Engines and Distributed  Databases/Distributed Storage Design/Concurrency Control/Transaction Isolation.md",
     "roadmap/backend/Memory, Persistence and Caching/Storage Engines and Distributed  Databases/Distributed Storage Design/Distributed Storage Design.md",
-    "roadmap/backend/Memory, Persistence and Caching/Storage Engines and Distributed  Databases/Distributed Storage Design/Untitled/Untitled",
-    "roadmap/backend/Memory, Persistence and Caching/Storage Engines and Distributed  Databases/Distributed Storage Design/Concurrency Control",
-    "roadmap/backend/Memory, Persistence and Caching/Storage Engines and Distributed  Databases/Distributed Storage Design/Cache Coherence/Cache Controller.md",
-    "roadmap/backend/Memory, Persistence and Caching/Storage Engines and Distributed  Databases/Storage Engines/postgres/postgres.md",
-    "media/pdf/papers/Perspectives on the CAP Theorem.pdf",
-    "roadmap/backend/Memory, Persistence and Caching/Memory Node Architecture/Memory Architecture.md",
-    "unorganised/Code.md",
-    "roadmap/backend/Memory, Persistence and Caching/Storage Engines and Distributed  Databases/Distributed Storage Design/Cache Coherence",
-    "media/png/memory hierarchy.png",
-    "media/png/Von_Neumann_Architecture.svg.png",
-    "media/Von_Neumann_Architecture.svg.png",
-    "media/png/diffie_hellman.png"
+    "roadmap/backend/Memory, Persistence and Caching/Storage Engines and Distributed  Databases/Distributed Storage Design/Untitled/Untitled"
   ]
 }

@@ -25,7 +25,7 @@
 - uses IP + port socket addressing scheme
 -  connection handshake
 	- client SYN -> server ACK/SYN -> client SYN
-- Secure Sockets Layer handshake
+- Secure Sockets Layer/ [[Transport Layer Security]] handshake
 	- client Hello
 		- sends TLS version options, cipher suite options, client random
 	- sever Hello

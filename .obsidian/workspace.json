@@ -29,13 +29,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "roadmap/backend/Memory, Persistence and Caching/Storage Engines and Distributed  Databases/Distributed Storage Design/Database Optimization.md",
+                "file": "roadmap/backend/Memory, Persistence and Caching/Storage Engines and Distributed  Databases/Distributed Storage Design/Cache Coherence/Untitled.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Database Optimization"
+              "title": "Untitled"
             }
           }
         ],
@@ -114,7 +114,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "TLS",
+                "query": "perf",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -135,7 +135,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -224,9 +225,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aab4ce21eb7f9501",
+  "active": "b005c8b14be144c1",
   "lastOpenFiles": [
+    "roadmap/backend/Memory, Persistence and Caching/Storage Engines and Distributed  Databases/Distributed Storage Design/Cache Coherence/Cache Coherence.md",
+    "roadmap/backend/Memory, Persistence and Caching/Storage Engines and Distributed  Databases/Distributed Storage Design/Cache Coherence/Untitled.md",
     "All Things Technicals.md",
+    "roadmap/backend/Memory, Persistence and Caching/Storage Engines and Distributed  Databases/Distributed Storage Design/Database Optimization.md",
     "roadmap/backend/Memory, Persistence and Caching/Storage Engines and Distributed  Databases/Distributed Storage Design/Concurrency Control/Database Locks.md",
     "task runbook/Quick Reference.md",
     "task runbook/Tasks Plugin - Review and check your Statuses 2024-12-07 12-21-00.md",
@@ -267,9 +271,6 @@
     "roadmap/backend/Network/Real Time Communications",
     "roadmap/backend/Systems Programming/Distributed Computing/multithreading and multiprocessing/Distributed Computing.md",
     "roadmap/backend/Systems Programming/Distributed Computing/multithreading and multiprocessing/Threads",
-    "roadmap/backend/Memory, Persistence and Caching/Storage Engines and Distributed  Databases/Distributed Storage Design/Database Design Principles/Database Design Principles.md",
-    "roadmap/backend/Memory, Persistence and Caching/Storage Engines and Distributed  Databases/Distributed Storage Design/Database Design Principles/CAP and PACELC Theorem.md",
-    "roadmap/backend/Memory, Persistence and Caching/Storage Engines and Distributed  Databases/Distributed Storage Design/Concurrency Control/Concurrency Control.md",
     "roadmap/backend/Memory, Persistence and Caching/Storage Engines and Distributed  Databases/Distributed Storage Design/Database Design Principles",
     "media/png/Consistency Model_jepson.png",
     "media/png/Consistency Model.png",

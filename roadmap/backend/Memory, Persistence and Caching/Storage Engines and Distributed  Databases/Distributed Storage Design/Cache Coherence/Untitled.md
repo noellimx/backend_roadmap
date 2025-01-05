@@ -1,0 +1,4 @@
+- [ ] cache associativity (mapping, approaches)
+- [ ] cache affinity
+- [ ] measuring cachce performance
+	- [ ] performance monitor unit

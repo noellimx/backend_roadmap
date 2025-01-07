@@ -4,84 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "c6e906a65b27b4ef",
+        "id": "1f572fa0bae3287c",
         "type": "tabs",
         "children": [
           {
-            "id": "23a343df176446c6",
+            "id": "5c5eed003ec140e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "roadmap/backend/internet/content/network/Communication Protocols.md",
+                "file": "roadmap/backend/Memory, Persistence and Caching/Memory Node Architecture/Registers.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Communication Protocols"
-            },
-            "group": "475e7691198173dd"
-          },
-          {
-            "id": "aab4ce21eb7f9501",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "roadmap/backend/Memory, Persistence and Caching/Storage Engines and Distributed  Databases/Distributed Storage Design/Cache Coherence/Untitled.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Registers"
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "a18772977084d00e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a72725bcac5b108b",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "roadmap/backend/internet/content/network/Communication Protocols.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 3,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": true,
-                  "showAttachments": true,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of Communication Protocols"
-            },
-            "group": "475e7691198173dd"
           }
         ]
       }
@@ -114,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "perf",
+                "query": "regist",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -135,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -225,10 +163,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b005c8b14be144c1",
+  "active": "5c5eed003ec140e6",
   "lastOpenFiles": [
-    "roadmap/backend/Memory, Persistence and Caching/Storage Engines and Distributed  Databases/Distributed Storage Design/Cache Coherence/Cache Coherence.md",
+    "roadmap/backend/Memory, Persistence and Caching/Memory Node Architecture/Memory Architecture.md",
+    "roadmap/backend/Memory, Persistence and Caching/Memory Node Architecture/Registers.md",
+    "roadmap/backend/Systems Programming/Distributed Computing/multithreading and multiprocessing/Threads/Processes and Threads.md",
+    "roadmap/backend/Memory, Persistence and Caching/Memory, Persistence and Caching.md",
     "roadmap/backend/Memory, Persistence and Caching/Storage Engines and Distributed  Databases/Distributed Storage Design/Cache Coherence/Untitled.md",
+    "roadmap/backend/Memory, Persistence and Caching/Storage Engines and Distributed  Databases/Distributed Storage Design/Cache Coherence/Cache Coherence.md",
     "All Things Technicals.md",
     "roadmap/backend/Memory, Persistence and Caching/Storage Engines and Distributed  Databases/Distributed Storage Design/Database Optimization.md",
     "roadmap/backend/Memory, Persistence and Caching/Storage Engines and Distributed  Databases/Distributed Storage Design/Concurrency Control/Database Locks.md",
@@ -253,7 +195,6 @@
     "roadmap/backend/Untitled.canvas",
     "roadmap/languages/golang/Readings.md",
     "roadmap/backend/Systems Programming/Distributed Computing/multithreading and multiprocessing/Threads/Kavya Joshi.png",
-    "roadmap/backend/Systems Programming/Distributed Computing/multithreading and multiprocessing/Threads/Processes and Threads.md",
     "roadmap/backend/Network/Real Time Communications/Principles of Real Time Communications.md",
     "roadmap/backend/Network/Real Time Communications/Programs/Comparison - Kafka vs NATS.io.md",
     "roadmap/backend/Network/Real Time Communications/Programs/NATS.io.md",
@@ -265,11 +206,8 @@
     "roadmap/backend/Network/Real Time Communications/Programs",
     "roadmap/backend/Network",
     "roadmap/backend/Real Time Communications/Unidirectional.md",
-    "roadmap/backend/Real Time Communications/Asynchronous.md",
-    "roadmap/backend/roadmap-backend.md",
     "roadmap/backend/Real Time Communications/Real time",
     "roadmap/backend/Network/Real Time Communications",
-    "roadmap/backend/Systems Programming/Distributed Computing/multithreading and multiprocessing/Distributed Computing.md",
     "roadmap/backend/Systems Programming/Distributed Computing/multithreading and multiprocessing/Threads",
     "roadmap/backend/Memory, Persistence and Caching/Storage Engines and Distributed  Databases/Distributed Storage Design/Database Design Principles",
     "media/png/Consistency Model_jepson.png",

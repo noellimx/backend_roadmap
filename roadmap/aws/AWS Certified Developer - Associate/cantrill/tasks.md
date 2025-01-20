@@ -1,0 +1,26 @@
+- [x] INTRODUCTION & SCENARIO ✅ 2025-01-18
+- [ ] Course Fundamentals and AWS Accounts
+- [ ] Cloud, Networking and Technical Fundamentals
+- [ ] AWS Fundamentals
+- [ ] IAM, ACCOUNTS AND AWS ORGANISATIONS
+- [ ] SIMPLE STORAGE SERVICE (S3)
+- [ ] Security
+- [ ] VIRTUAL PRIVATE CLOUD (VPC) BASICS
+- [ ] ELASTIC COMPUTE CLOUD (EC2) BASICS
+- [ ] Monitoring and Logging
+- [ ] CONTAINERS, ECS & ECR
+- [ ] Advanced EC2
+- [ ] Infrastructure as Code (CloudFormation)
+- [ ] Global Service Discovery and Content Delivery (R53 and CloudFront)
+- [ ] DATABASES (SQL)
+- [ ] Advanced Storage
+- [ ] Scaling, Load Balancing & High-Availability
+- [ ] AWS CLI, DEVELOPER TOOLS & CICD (CODE*)
+- [ ] Application Services, Event-Driven & Serverless
+- [ ] AWS Lambda In-Depth
+- [ ] APIs & API Gateway In-Depth
+- [ ] NOSQL Databases & DynamoDB
+- [ ] Elastic Beanstalk In-Depth
+- [ ] Exam Prep
+
+

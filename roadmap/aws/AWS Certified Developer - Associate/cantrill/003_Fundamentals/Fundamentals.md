@@ -53,7 +53,7 @@ Mumbai, India; Singapore; Seoul, South Korea; Tokyo, Japan; Sydney, Australia
 	- Since storage is public -> bucket name is globally unique.
 	- Buckets are structurally flat (no concept of mounting or hierarchy).
 	- One account is limited to 100/1000 (soft/hard) buckets.
-	- One bucket is capped at 5TB.
+	- One bucket is capped at **5TB**.
 
 # CloudFormation
 - Infrastructure as code.
@@ -96,7 +96,7 @@ Mumbai, India; Singapore; Seoul, South Korea; Tokyo, Japan; Sydney, Australia
 # CloudTrail
 - 90 days no-cost logging of api calls/activities.
 	- Near real-time, around 50 minutes delay.
-	- Stored in S3.
+	- Stored in [[#Simple Storage Service (S3)]].
 - Event Types:
 	- Management: Control planes operations (initialize/terminating resource)
 		- Default enabled, no charge
@@ -115,7 +115,9 @@ Mumbai, India; Singapore; Seoul, South Korea; Tokyo, Japan; Sydney, Australia
 	- supply own key to KMS for KMS to encrypt.
 		- `kms_encrypt(OWNKEY) -> ENCRYPTED_OWN_KEY` (keep the encrypted key)
 		- `kms_decrypt(ENCRYPTED_OWN_KEY) -> OWNKEY` (discard own key after use)
-- FIPS 140-2 compliant.
+- FIPS 140-2 Level 2 compliant.
+	- Use custom key store by CloudHSM (Hardware Security Module) for FIPS 140-2 Level 3 compliance.
+		- CloudHSM: not integrated with other AWS services, AWS only provides the hardware, user manages it.
 - CMS Keys are generated or imported:
 	- As a resource (policy configurable)
 	- Encrypted before storing, never leaves KMS.

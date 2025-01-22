@@ -125,3 +125,16 @@ Mumbai, India; Singapore; Seoul, South Korea; Tokyo, Japan; Sydney, Australia
 - Sample Decrypt(Encrypt(**your own key**))
 	- `aws kms encrypt --key-id=alias/key1 --output=text --query=CiphertextBlob --plaintext=fileb://./plain --cli-binary-format raw-in-base64-out | xargs -I {} aws kms decrypt --output=text --ciphertext-blob={} --query=Plaintext | base64 --decode`
 ![[key_policy_sample#Sample Policy]]
+
+# Elastic Block Store (EBS)
+
+## SSD Volume Types
+- gp2/gp3
+	- General Purpose
+	- boot volumes, virtual desktops, single instance database
+- io2/io3
+	- sub-millisecond latency
+	- for I/O instensive operations
+## HDD Volume Types
+- st1 (throughput-optimized), sc1(cold)
+- slow, cannot support boot/store root volume

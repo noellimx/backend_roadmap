@@ -88,6 +88,23 @@ Mumbai, India; Singapore; Seoul, South Korea; Tokyo, Japan; Sydney, Australia
 	- IP to DN binding
 - Record Types: NS, A, AAAA, MX, TXT
 
+# Elastic Network Interface (ENI)
+
+- Contains:
+	- Mac address
+	- 1 IPv4/DNS private to the VPC
+	- Additional secondary IPv4s
+	- 1 Optional public IPv4
+		- dynamic on restart
+		- resolves to
+			- Private IP within VPC
+			- Public IP beyond VPC
+		- If Elastic IP is assigned => replaces public, ephemeral IPv4
+	- Additional IPv6 addresses
+		- Conceptually publicly resolveable
+
+
+
 # Amazon Resource Name
 
 `arn:<partition>:<service>:<region>:<account-id>:<resource-id>`

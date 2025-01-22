@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "roadmap/aws/AWS Certified Developer - Associate/cantrill/003_Fundamentals/Fundamentals.md",
+                "file": "roadmap/aws/AWS Certified Developer - Associate/cantrill/007_001_Elastic Cloud Compute/Elastic Cloud Compute.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fundamentals"
+              "title": "Elastic Cloud Compute"
             }
           },
           {
@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "elastic block",
+                "query": "network interface",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -212,8 +212,9 @@
   "active": "9cd5c7a4d2bddcf3",
   "lastOpenFiles": [
     "roadmap/aws/AWS Certified Developer - Associate/cantrill/007_002_Elastic Block Storage/EBS.md",
-    "roadmap/aws/AWS Certified Developer - Associate/cantrill/003_Fundamentals/Fundamentals.md",
     "roadmap/aws/AWS Certified Developer - Associate/cantrill/007_001_Elastic Cloud Compute/Elastic Cloud Compute.md",
+    "roadmap/aws/AWS Certified Developer - Associate/cantrill/003_Fundamentals/Fundamentals.md",
+    "roadmap/backend/internet/content/network/Communication Protocols.md",
     "roadmap/aws/AWS Certified Developer - Associate/cantrill/007_002_Elastic Block Storage",
     "roadmap/aws/AWS Certified Developer - Associate/cantrill/007_Elastic Cloud Compute/Untitled 1",
     "roadmap/aws/AWS Certified Developer - Associate/cantrill/007_Elastic Cloud Compute/Untitled",
@@ -253,7 +254,6 @@
     "task runbook/Tasks Plugin - Review and check your Statuses 2024-12-07 12-21-00.md",
     "roadmap/backend/Security/Protocols/Transport Layer Security.md",
     "roadmap/backend/Security/Cryptography/Diffe Helmann/Diffie-Hellman_Key_Exchange.md",
-    "roadmap/backend/internet/content/network/Communication Protocols.md",
     "roadmap/backend/internet/Internet.md",
     "media/png/diffie_hellman.png",
     "media/png/diffie_hellman2.png",

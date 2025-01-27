@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "roadmap/aws/AWS Certified Developer - Associate/cantrill/003_Fundamentals/Fundamentals.md",
+                "file": "roadmap/aws/AWS Certified Developer - Associate/cantrill/013 Relational Database Service/Relational Database Service.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fundamentals"
+              "title": "Relational Database Service"
             }
           },
           {
@@ -28,14 +28,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "roadmap/aws/AWS Certified Developer - Associate/cantrill/007_001_Elastic Cloud Compute/Elastic Cloud Compute.md",
+                "file": "roadmap/backend/Security/Cryptography/Diffe Helmann/Diffie-Hellman_Key_Exchange.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Elastic Cloud Compute"
-            }
+              "title": "Diffie-Hellman_Key_Exchange"
+            },
+            "group": "6042e5498b994a59"
           },
           {
             "id": "fcea6ad2d277cdcb",
@@ -67,8 +68,51 @@
               "title": "EBS"
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "eddf6f5c8beaf277",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2af754c96c6b2b40",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "roadmap/backend/Security/Cryptography/Diffe Helmann/Diffie-Hellman_Key_Exchange.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": true,
+                  "showAttachments": true,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Diffie-Hellman_Key_Exchange"
+            },
+            "group": "6042e5498b994a59"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +143,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "network interface",
+                "query": "AAAA",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -209,17 +253,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9cd5c7a4d2bddcf3",
+  "active": "62b47ba6ccb8b8fd",
   "lastOpenFiles": [
-    "roadmap/aws/AWS Certified Developer - Associate/cantrill/007_002_Elastic Block Storage/EBS.md",
-    "roadmap/aws/AWS Certified Developer - Associate/cantrill/007_001_Elastic Cloud Compute/Elastic Cloud Compute.md",
+    "roadmap/aws/AWS Certified Developer - Associate/cantrill/tasks.md",
+    "roadmap/aws/AWS Certified Developer - Associate/cantrill/013 Relational Database Service/Relational Database Service.md",
+    "roadmap/aws/AWS Certified Developer - Associate/cantrill/010 Advance EC2/EC2.md",
+    "roadmap/aws/AWS Certified Developer - Associate/cantrill/013 Relational Database Service",
     "roadmap/aws/AWS Certified Developer - Associate/cantrill/003_Fundamentals/Fundamentals.md",
+    "roadmap/backend/Security/Cryptography/Diffe Helmann/Diffie-Hellman_Key_Exchange.md",
     "roadmap/backend/internet/content/network/Communication Protocols.md",
+    "media/png/diffie_hellman2.png",
+    "media/png/Diffie-Hellman_Key_Exchange.png",
+    "media/png/Consistency Model_jepson.png",
+    "media/png/diffie_hellman.png",
+    "roadmap/aws/AWS Certified Developer - Associate/cantrill/009 Elastic Container Service and Elastic Container Registry/009 002 Elastic Container Registry.md",
+    "roadmap/aws/AWS Certified Developer - Associate/cantrill/010 Advance EC2",
+    "roadmap/aws/AWS Certified Developer - Associate/cantrill/009 Elastic Container Service and Elastic Container Registry/009 001 Elastic Container Service (ECS).md",
+    "roadmap/aws/AWS Certified Developer - Associate/cantrill/009 Elastic Container Service and Elastic Container Registry/Fargate.md",
+    "roadmap/aws/AWS Certified Developer - Associate/cantrill/006_Virtual Private Cloud/VPC.md",
+    "roadmap/aws/AWS Certified Developer - Associate/cantrill/009 Elastic Container Service and Elastic Container Registry/EC2.md",
+    "roadmap/aws/AWS Certified Developer - Associate/cantrill/008 Monitoring and Logging with CloudWatch/VPC Flow Logs.md",
+    "roadmap/aws/AWS Certified Developer - Associate/cantrill/009 Elastic Container Service and Elastic Container Registry",
+    "roadmap/aws/AWS Certified Developer - Associate/cantrill/008 Monitoring and Logging with CloudWatch/X-Ray.md",
+    "roadmap/aws/AWS Certified Developer - Associate/cantrill/008 Monitoring and Logging with CloudWatch/CloudWatch.md",
+    "roadmap/aws/AWS Certified Developer - Associate/cantrill/007_001_Elastic Cloud Compute/Elastic Cloud Compute.md",
+    "roadmap/aws/AWS Certified Developer - Associate/cantrill/008 Monitoring and Logging with CloudWatch",
+    "roadmap/aws/AWS Certified Developer - Associate/cantrill/007_002_Elastic Block Storage/EBS.md",
     "roadmap/aws/AWS Certified Developer - Associate/cantrill/007_002_Elastic Block Storage",
     "roadmap/aws/AWS Certified Developer - Associate/cantrill/007_Elastic Cloud Compute/Untitled 1",
     "roadmap/aws/AWS Certified Developer - Associate/cantrill/007_Elastic Cloud Compute/Untitled",
     "roadmap/aws/AWS Certified Developer - Associate/cantrill/007_001_Elastic Cloud Compute",
-    "roadmap/aws/AWS Certified Developer - Associate/cantrill/006_Virtual Private Cloud/VPC.md",
     "roadmap/aws/AWS Certified Developer - Associate/cantrill/006_Virtual Private Cloud/vpc_subnet.excalidraw",
     "roadmap/aws/AWS Certified Developer - Associate/cantrill/006_Virtual Private Cloud/vpc_subnet.png",
     "roadmap/aws/AWS Certified Developer - Associate/cantrill/005_Simple Storage Service/S3.md",
@@ -228,35 +291,16 @@
     "roadmap/aws/AWS Certified Developer - Associate/cantrill/003_Fundamentals/key_policy_sample.md",
     "roadmap/aws/AWS Certified Developer - Associate/cantrill/003_Fundamentals/zone_visbility.png",
     "roadmap/aws/AWS Certified Developer - Associate/cantrill/003_Fundamentals/vpc_fundamental.png",
-    "roadmap/aws/AWS Certified Developer - Associate/cantrill/005_Simple Storage Service",
-    "roadmap/aws/AWS Certified Developer - Associate/cantrill/004 IAM, ACCOUNTS AND AWS ORGANISATIONS",
-    "roadmap/aws/AWS Certified Developer - Associate/cantrill/003_Fundamentals/vpc_fundamental.excalidraw",
-    "roadmap/aws/AWS Certified Developer - Associate/cantrill/003_Fundamentals/zone_visbility.excalidraw",
-    "roadmap/aws/AWS Certified Developer - Associate/cantrill/tasks.md",
     "roadmap/aws/AWS Certified Developer - Associate/DVA-C02.md",
     "roadmap/aws/Amazon Web Services.md",
     "roadmap/aws/specialty.png",
     "roadmap/aws/cert roadmap.md",
     "roadmap/aws/截圖 2025-01-18 15.11.07.png",
     "roadmap/aws/cert roadmap.png",
-    "roadmap/aws/截圖 2025-01-18 15.09.00.png",
-    "Pasted image 20250118150922.png",
     "roadmap/backend/Memory, Persistence and Caching/Memory Node Architecture/Registers.md",
     "roadmap/backend/Memory, Persistence and Caching/Memory Node Architecture/Memory Architecture.md",
     "roadmap/backend/Systems Programming/Distributed Computing/multithreading and multiprocessing/Threads/Processes and Threads.md",
     "roadmap/backend/Memory, Persistence and Caching/Memory, Persistence and Caching.md",
-    "roadmap/backend/Memory, Persistence and Caching/Storage Engines and Distributed  Databases/Distributed Storage Design/Cache Coherence/Untitled.md",
-    "roadmap/backend/Memory, Persistence and Caching/Storage Engines and Distributed  Databases/Distributed Storage Design/Cache Coherence/Cache Coherence.md",
-    "All Things Technicals.md",
-    "roadmap/backend/Memory, Persistence and Caching/Storage Engines and Distributed  Databases/Distributed Storage Design/Database Optimization.md",
-    "roadmap/backend/Memory, Persistence and Caching/Storage Engines and Distributed  Databases/Distributed Storage Design/Concurrency Control/Database Locks.md",
-    "task runbook/Quick Reference.md",
-    "task runbook/Tasks Plugin - Review and check your Statuses 2024-12-07 12-21-00.md",
-    "roadmap/backend/Security/Protocols/Transport Layer Security.md",
-    "roadmap/backend/Security/Cryptography/Diffe Helmann/Diffie-Hellman_Key_Exchange.md",
-    "roadmap/backend/internet/Internet.md",
-    "media/png/diffie_hellman.png",
-    "media/png/diffie_hellman2.png",
     "roadmap/backend/Security/Protocols/Diffe Helmann/Untitled.canvas",
     "roadmap/backend/Untitled.canvas"
   ]

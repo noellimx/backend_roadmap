@@ -8,49 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "62b47ba6ccb8b8fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "roadmap/aws/AWS Certified Developer - Associate/cantrill/013 Relational Database Service/Relational Database Service.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Relational Database Service"
-            }
-          },
-          {
-            "id": "9cd5c7a4d2bddcf3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "roadmap/backend/Security/Cryptography/Diffe Helmann/Diffie-Hellman_Key_Exchange.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Diffie-Hellman_Key_Exchange"
-            },
-            "group": "6042e5498b994a59"
-          },
-          {
             "id": "fcea6ad2d277cdcb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "roadmap/aws/AWS Certified Developer - Associate/cantrill/007_002_Elastic Block Storage/EBS.md",
+                "file": "roadmap/backend/Memory, Persistence and Caching/Memory Node Architecture/Memory Architecture.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "EBS"
+              "title": "Memory Architecture"
             }
           },
           {
@@ -67,8 +45,21 @@
               "icon": "lucide-file",
               "title": "EBS"
             }
+          },
+          {
+            "id": "274bb16768646911",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "roadmap/aws/AWS Certified Developer - Associate/cantrill/003_Fundamentals/vpc_fundamental.png"
+              },
+              "icon": "lucide-image",
+              "title": "vpc_fundamental"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "eddf6f5c8beaf277",
@@ -80,7 +71,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "roadmap/backend/Security/Cryptography/Diffe Helmann/Diffie-Hellman_Key_Exchange.md",
+                "file": "roadmap/aws/AWS Certified Developer - Associate/cantrill/003_Fundamentals/vpc_fundamental.png",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -108,9 +99,8 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Diffie-Hellman_Key_Exchange"
-            },
-            "group": "6042e5498b994a59"
+              "title": "Graph of vpc_fundamental"
+            }
           }
         ]
       }
@@ -131,7 +121,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -143,7 +134,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "AAAA",
+                "query": "write through",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -253,19 +244,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "62b47ba6ccb8b8fd",
+  "active": "274bb16768646911",
   "lastOpenFiles": [
-    "roadmap/aws/AWS Certified Developer - Associate/cantrill/tasks.md",
-    "roadmap/aws/AWS Certified Developer - Associate/cantrill/013 Relational Database Service/Relational Database Service.md",
-    "roadmap/aws/AWS Certified Developer - Associate/cantrill/010 Advance EC2/EC2.md",
-    "roadmap/aws/AWS Certified Developer - Associate/cantrill/013 Relational Database Service",
+    "roadmap/aws/AWS Certified Developer - Associate/cantrill/003_Fundamentals/key_policy_sample.md",
     "roadmap/aws/AWS Certified Developer - Associate/cantrill/003_Fundamentals/Fundamentals.md",
-    "roadmap/backend/Security/Cryptography/Diffe Helmann/Diffie-Hellman_Key_Exchange.md",
-    "roadmap/backend/internet/content/network/Communication Protocols.md",
-    "media/png/diffie_hellman2.png",
+    "roadmap/backend/Memory, Persistence and Caching/Storage Engines and Distributed  Databases/Distributed Storage Design/Cache Coherence/Cache Coherence.md",
+    "roadmap/backend/Memory, Persistence and Caching/Storage Engines and Distributed  Databases/Distributed Storage Design/Concurrency Control/Database Locks.md",
+    "roadmap/backend/Memory, Persistence and Caching/Storage Engines and Distributed  Databases/Distributed Storage Design/Concurrency Control/Concurrency Control.md",
+    "roadmap/aws/AWS Certified Developer - Associate/cantrill/010 Advance EC2/EC2.md",
+    "roadmap/aws/AWS Certified Developer - Associate/cantrill/003_Fundamentals/vpc_fundamental.png",
+    "readings/reading list.md",
+    "media/png/memory hierarchy.png",
+    "media/png/Von_Neumann_Architecture.svg.png",
     "media/png/Diffie-Hellman_Key_Exchange.png",
-    "media/png/Consistency Model_jepson.png",
+    "media/png/diffie_hellman2.png",
     "media/png/diffie_hellman.png",
+    "media/png/Consistency Model_jepson.png",
+    "roadmap/aws/AWS Certified Developer - Associate/cantrill/007_002_Elastic Block Storage/EBS.md",
+    "roadmap/aws/AWS Certified Developer - Associate/cantrill/013 Relational Database Service/Relational Database Service.md",
+    "roadmap/aws/Amazon Web Services.md",
+    "roadmap/aws/specialty.png",
+    "roadmap/aws/cert roadmap.md",
+    "roadmap/aws/cert roadmap.png",
+    "roadmap/backend/Security/Cryptography/Diffe Helmann/Diffie-Hellman_Key_Exchange.md",
+    "roadmap/aws/AWS Certified Developer - Associate/cantrill/tasks.md",
+    "roadmap/aws/AWS Certified Developer - Associate/cantrill/013 Relational Database Service",
+    "roadmap/backend/internet/content/network/Communication Protocols.md",
     "roadmap/aws/AWS Certified Developer - Associate/cantrill/009 Elastic Container Service and Elastic Container Registry/009 002 Elastic Container Registry.md",
     "roadmap/aws/AWS Certified Developer - Associate/cantrill/010 Advance EC2",
     "roadmap/aws/AWS Certified Developer - Associate/cantrill/009 Elastic Container Service and Elastic Container Registry/009 001 Elastic Container Service (ECS).md",
@@ -278,7 +282,6 @@
     "roadmap/aws/AWS Certified Developer - Associate/cantrill/008 Monitoring and Logging with CloudWatch/CloudWatch.md",
     "roadmap/aws/AWS Certified Developer - Associate/cantrill/007_001_Elastic Cloud Compute/Elastic Cloud Compute.md",
     "roadmap/aws/AWS Certified Developer - Associate/cantrill/008 Monitoring and Logging with CloudWatch",
-    "roadmap/aws/AWS Certified Developer - Associate/cantrill/007_002_Elastic Block Storage/EBS.md",
     "roadmap/aws/AWS Certified Developer - Associate/cantrill/007_002_Elastic Block Storage",
     "roadmap/aws/AWS Certified Developer - Associate/cantrill/007_Elastic Cloud Compute/Untitled 1",
     "roadmap/aws/AWS Certified Developer - Associate/cantrill/007_Elastic Cloud Compute/Untitled",
@@ -288,19 +291,7 @@
     "roadmap/aws/AWS Certified Developer - Associate/cantrill/005_Simple Storage Service/S3.md",
     "roadmap/aws/AWS Certified Developer - Associate/cantrill/006_Virtual Private Cloud",
     "roadmap/aws/AWS Certified Developer - Associate/cantrill/004 IAM, ACCOUNTS AND AWS ORGANISATIONS/004 IAM, ACCOUNTS AND AWS ORGANISATIONS.md",
-    "roadmap/aws/AWS Certified Developer - Associate/cantrill/003_Fundamentals/key_policy_sample.md",
-    "roadmap/aws/AWS Certified Developer - Associate/cantrill/003_Fundamentals/zone_visbility.png",
-    "roadmap/aws/AWS Certified Developer - Associate/cantrill/003_Fundamentals/vpc_fundamental.png",
     "roadmap/aws/AWS Certified Developer - Associate/DVA-C02.md",
-    "roadmap/aws/Amazon Web Services.md",
-    "roadmap/aws/specialty.png",
-    "roadmap/aws/cert roadmap.md",
-    "roadmap/aws/截圖 2025-01-18 15.11.07.png",
-    "roadmap/aws/cert roadmap.png",
-    "roadmap/backend/Memory, Persistence and Caching/Memory Node Architecture/Registers.md",
-    "roadmap/backend/Memory, Persistence and Caching/Memory Node Architecture/Memory Architecture.md",
-    "roadmap/backend/Systems Programming/Distributed Computing/multithreading and multiprocessing/Threads/Processes and Threads.md",
-    "roadmap/backend/Memory, Persistence and Caching/Memory, Persistence and Caching.md",
     "roadmap/backend/Security/Protocols/Diffe Helmann/Untitled.canvas",
     "roadmap/backend/Untitled.canvas"
   ]

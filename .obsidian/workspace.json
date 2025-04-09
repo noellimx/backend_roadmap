@@ -50,16 +50,52 @@
             "id": "274bb16768646911",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "roadmap/aws/AWS Certified Developer - Associate/cantrill/003_Fundamentals/vpc_fundamental.png"
+                "file": "roadmap/leetcode/763. Partition Labels.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-image",
-              "title": "vpc_fundamental"
+              "icon": "lucide-file",
+              "title": "763. Partition Labels"
+            }
+          },
+          {
+            "id": "6b981fbf5ada2d32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interview - DTL.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Interview - DTL"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "eddf6f5c8beaf277",
@@ -71,7 +107,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "roadmap/aws/AWS Certified Developer - Associate/cantrill/003_Fundamentals/vpc_fundamental.png",
+                "file": "Interview - DTL.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -99,7 +135,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of vpc_fundamental"
+              "title": "Graph of Interview - DTL"
             }
           }
         ]
@@ -134,7 +170,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "write through",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -244,15 +280,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "274bb16768646911",
+  "active": "6b981fbf5ada2d32",
   "lastOpenFiles": [
-    "roadmap/aws/AWS Certified Developer - Associate/cantrill/003_Fundamentals/key_policy_sample.md",
+    "roadmap/leetcode/763. Partition Labels.md",
+    "Interview - DTL.md",
+    "roadmap/leetcode/763. Partition Labels.py",
+    "roadmap/leetcode/763. Partition Labels.m",
+    "roadmap/backend/Memory, Persistence and Caching/Storage Engines and Distributed  Databases/Distributed Storage Design/Concurrency Control/Concurrency Control.md",
+    "roadmap/leetcode",
+    "roadmap/backend/Systems Programming/Distributed Computing/multithreading and multiprocessing/Memory Consistency Model/Memory Consistency Model.md",
+    "roadmap/backend/Memory, Persistence and Caching/Storage Engines and Distributed  Databases/Distributed Storage Design/Database Design Principles/Database Design Principles.md",
     "roadmap/aws/AWS Certified Developer - Associate/cantrill/003_Fundamentals/Fundamentals.md",
+    "roadmap/aws/AWS Certified Developer - Associate/cantrill/007_002_Elastic Block Storage/EBS.md",
+    "roadmap/aws/Amazon Web Services.md",
+    "roadmap/aws/AWS Certified Developer - Associate/cantrill/003_Fundamentals/vpc_fundamental.png",
+    "roadmap/aws/AWS Certified Developer - Associate/cantrill/003_Fundamentals/key_policy_sample.md",
     "roadmap/backend/Memory, Persistence and Caching/Storage Engines and Distributed  Databases/Distributed Storage Design/Cache Coherence/Cache Coherence.md",
     "roadmap/backend/Memory, Persistence and Caching/Storage Engines and Distributed  Databases/Distributed Storage Design/Concurrency Control/Database Locks.md",
-    "roadmap/backend/Memory, Persistence and Caching/Storage Engines and Distributed  Databases/Distributed Storage Design/Concurrency Control/Concurrency Control.md",
     "roadmap/aws/AWS Certified Developer - Associate/cantrill/010 Advance EC2/EC2.md",
-    "roadmap/aws/AWS Certified Developer - Associate/cantrill/003_Fundamentals/vpc_fundamental.png",
     "readings/reading list.md",
     "media/png/memory hierarchy.png",
     "media/png/Von_Neumann_Architecture.svg.png",
@@ -260,9 +305,7 @@
     "media/png/diffie_hellman2.png",
     "media/png/diffie_hellman.png",
     "media/png/Consistency Model_jepson.png",
-    "roadmap/aws/AWS Certified Developer - Associate/cantrill/007_002_Elastic Block Storage/EBS.md",
     "roadmap/aws/AWS Certified Developer - Associate/cantrill/013 Relational Database Service/Relational Database Service.md",
-    "roadmap/aws/Amazon Web Services.md",
     "roadmap/aws/specialty.png",
     "roadmap/aws/cert roadmap.md",
     "roadmap/aws/cert roadmap.png",
@@ -280,18 +323,11 @@
     "roadmap/aws/AWS Certified Developer - Associate/cantrill/009 Elastic Container Service and Elastic Container Registry",
     "roadmap/aws/AWS Certified Developer - Associate/cantrill/008 Monitoring and Logging with CloudWatch/X-Ray.md",
     "roadmap/aws/AWS Certified Developer - Associate/cantrill/008 Monitoring and Logging with CloudWatch/CloudWatch.md",
-    "roadmap/aws/AWS Certified Developer - Associate/cantrill/007_001_Elastic Cloud Compute/Elastic Cloud Compute.md",
     "roadmap/aws/AWS Certified Developer - Associate/cantrill/008 Monitoring and Logging with CloudWatch",
     "roadmap/aws/AWS Certified Developer - Associate/cantrill/007_002_Elastic Block Storage",
     "roadmap/aws/AWS Certified Developer - Associate/cantrill/007_Elastic Cloud Compute/Untitled 1",
     "roadmap/aws/AWS Certified Developer - Associate/cantrill/007_Elastic Cloud Compute/Untitled",
-    "roadmap/aws/AWS Certified Developer - Associate/cantrill/007_001_Elastic Cloud Compute",
-    "roadmap/aws/AWS Certified Developer - Associate/cantrill/006_Virtual Private Cloud/vpc_subnet.excalidraw",
     "roadmap/aws/AWS Certified Developer - Associate/cantrill/006_Virtual Private Cloud/vpc_subnet.png",
-    "roadmap/aws/AWS Certified Developer - Associate/cantrill/005_Simple Storage Service/S3.md",
-    "roadmap/aws/AWS Certified Developer - Associate/cantrill/006_Virtual Private Cloud",
-    "roadmap/aws/AWS Certified Developer - Associate/cantrill/004 IAM, ACCOUNTS AND AWS ORGANISATIONS/004 IAM, ACCOUNTS AND AWS ORGANISATIONS.md",
-    "roadmap/aws/AWS Certified Developer - Associate/DVA-C02.md",
     "roadmap/backend/Security/Protocols/Diffe Helmann/Untitled.canvas",
     "roadmap/backend/Untitled.canvas"
   ]

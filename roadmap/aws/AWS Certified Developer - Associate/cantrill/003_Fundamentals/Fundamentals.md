@@ -139,7 +139,7 @@ Mumbai, India; Singapore; Seoul, South Korea; Tokyo, Japan; Sydney, Australia
 	- As a resource (policy configurable)
 	- Encrypted before storing, never leaves KMS.
 	- A decrypt client request will 1) decrypt the stored key 2) decrypt the client cipher to obtain the plaintext.
-- Sample Decrypt(Encrypt(**your own key**))
+- Sample Decrypt(ciphertext=Encrypt(**your own key**))
 	- `aws kms encrypt --key-id=alias/key1 --output=text --query=CiphertextBlob --plaintext=fileb://./plain --cli-binary-format raw-in-base64-out | xargs -I {} aws kms decrypt --output=text --ciphertext-blob={} --query=Plaintext | base64 --decode`
 ![[key_policy_sample#Sample Policy]]
 

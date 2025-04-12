@@ -76,7 +76,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview - DTL.md",
+                "file": "roadmap/backend/Systems Programming/Distributed Computing/multithreading and multiprocessing/synchronization techniques/lock free algorithms.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -91,7 +91,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Interview - DTL"
+              "title": "lock free algorithms"
             }
           }
         ],
@@ -107,7 +107,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Interview - DTL.md",
+                "file": "roadmap/backend/Systems Programming/Distributed Computing/multithreading and multiprocessing/synchronization techniques/lock free algorithms.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -135,7 +135,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Interview - DTL"
+              "title": "Graph of lock free algorithms"
             }
           }
         ]
@@ -170,7 +170,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "multith",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -282,13 +282,26 @@
   },
   "active": "6b981fbf5ada2d32",
   "lastOpenFiles": [
+    "roadmap/backend/Systems Programming/Distributed Computing/multithreading and multiprocessing/Distributed Computing.md",
+    "roadmap/backend/Systems Programming/Distributed Computing/multithreading and multiprocessing/synchronization techniques/lock free algorithms.md",
+    "roadmap/backend/Systems Programming/Distributed Computing/multithreading and multiprocessing/atomi",
+    "roadmap/backend/Systems Programming/Distributed Computing/multithreading and multiprocessing/Threads/Processes and Threads.md",
+    "roadmap/backend/Systems Programming/Distributed Computing/multithreading and multiprocessing/Threads/Kavya Joshi.png",
+    "roadmap/backend/Systems Programming/Distributed Computing/multithreading and multiprocessing/Memory Consistency Model/Memory Consistency Model.md",
+    "roadmap/backend/internet/content/network/Communication Protocols.md",
+    "interview dtl/Roadmap.md",
+    "interview dtl/Interview - DTL.md",
+    "interview dtl",
+    "roadmap/aws/specialty.png",
+    "roadmap/aws/cert roadmap.png",
+    "readings/reading list.md",
+    "roadmap/aws/cert roadmap.md",
+    "roadmap/aws/AWS Certified Developer - Associate/cantrill/004 IAM, ACCOUNTS AND AWS ORGANISATIONS/004 IAM, ACCOUNTS AND AWS ORGANISATIONS.md",
     "roadmap/leetcode/763. Partition Labels.md",
-    "Interview - DTL.md",
     "roadmap/leetcode/763. Partition Labels.py",
     "roadmap/leetcode/763. Partition Labels.m",
     "roadmap/backend/Memory, Persistence and Caching/Storage Engines and Distributed  Databases/Distributed Storage Design/Concurrency Control/Concurrency Control.md",
     "roadmap/leetcode",
-    "roadmap/backend/Systems Programming/Distributed Computing/multithreading and multiprocessing/Memory Consistency Model/Memory Consistency Model.md",
     "roadmap/backend/Memory, Persistence and Caching/Storage Engines and Distributed  Databases/Distributed Storage Design/Database Design Principles/Database Design Principles.md",
     "roadmap/aws/AWS Certified Developer - Associate/cantrill/003_Fundamentals/Fundamentals.md",
     "roadmap/aws/AWS Certified Developer - Associate/cantrill/007_002_Elastic Block Storage/EBS.md",
@@ -298,7 +311,6 @@
     "roadmap/backend/Memory, Persistence and Caching/Storage Engines and Distributed  Databases/Distributed Storage Design/Cache Coherence/Cache Coherence.md",
     "roadmap/backend/Memory, Persistence and Caching/Storage Engines and Distributed  Databases/Distributed Storage Design/Concurrency Control/Database Locks.md",
     "roadmap/aws/AWS Certified Developer - Associate/cantrill/010 Advance EC2/EC2.md",
-    "readings/reading list.md",
     "media/png/memory hierarchy.png",
     "media/png/Von_Neumann_Architecture.svg.png",
     "media/png/Diffie-Hellman_Key_Exchange.png",
@@ -306,28 +318,16 @@
     "media/png/diffie_hellman.png",
     "media/png/Consistency Model_jepson.png",
     "roadmap/aws/AWS Certified Developer - Associate/cantrill/013 Relational Database Service/Relational Database Service.md",
-    "roadmap/aws/specialty.png",
-    "roadmap/aws/cert roadmap.md",
-    "roadmap/aws/cert roadmap.png",
     "roadmap/backend/Security/Cryptography/Diffe Helmann/Diffie-Hellman_Key_Exchange.md",
     "roadmap/aws/AWS Certified Developer - Associate/cantrill/tasks.md",
     "roadmap/aws/AWS Certified Developer - Associate/cantrill/013 Relational Database Service",
-    "roadmap/backend/internet/content/network/Communication Protocols.md",
     "roadmap/aws/AWS Certified Developer - Associate/cantrill/009 Elastic Container Service and Elastic Container Registry/009 002 Elastic Container Registry.md",
     "roadmap/aws/AWS Certified Developer - Associate/cantrill/010 Advance EC2",
     "roadmap/aws/AWS Certified Developer - Associate/cantrill/009 Elastic Container Service and Elastic Container Registry/009 001 Elastic Container Service (ECS).md",
     "roadmap/aws/AWS Certified Developer - Associate/cantrill/009 Elastic Container Service and Elastic Container Registry/Fargate.md",
-    "roadmap/aws/AWS Certified Developer - Associate/cantrill/006_Virtual Private Cloud/VPC.md",
-    "roadmap/aws/AWS Certified Developer - Associate/cantrill/009 Elastic Container Service and Elastic Container Registry/EC2.md",
-    "roadmap/aws/AWS Certified Developer - Associate/cantrill/008 Monitoring and Logging with CloudWatch/VPC Flow Logs.md",
     "roadmap/aws/AWS Certified Developer - Associate/cantrill/009 Elastic Container Service and Elastic Container Registry",
-    "roadmap/aws/AWS Certified Developer - Associate/cantrill/008 Monitoring and Logging with CloudWatch/X-Ray.md",
-    "roadmap/aws/AWS Certified Developer - Associate/cantrill/008 Monitoring and Logging with CloudWatch/CloudWatch.md",
     "roadmap/aws/AWS Certified Developer - Associate/cantrill/008 Monitoring and Logging with CloudWatch",
     "roadmap/aws/AWS Certified Developer - Associate/cantrill/007_002_Elastic Block Storage",
-    "roadmap/aws/AWS Certified Developer - Associate/cantrill/007_Elastic Cloud Compute/Untitled 1",
-    "roadmap/aws/AWS Certified Developer - Associate/cantrill/007_Elastic Cloud Compute/Untitled",
-    "roadmap/aws/AWS Certified Developer - Associate/cantrill/006_Virtual Private Cloud/vpc_subnet.png",
     "roadmap/backend/Security/Protocols/Diffe Helmann/Untitled.canvas",
     "roadmap/backend/Untitled.canvas"
   ]

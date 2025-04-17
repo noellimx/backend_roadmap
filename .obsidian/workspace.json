@@ -179,7 +179,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "leetc",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -291,8 +291,10 @@
   },
   "active": "b784eb829b0230f7",
   "lastOpenFiles": [
-    "roadmap/leetcode/763. Partition Labels.md",
+    "roadmap/backend/Systems Programming/Distributed Computing/multithreading and multiprocessing/synchronization techniques/lock free algorithms.md",
+    "roadmap/backend/Memory, Persistence and Caching/Memory, Persistence and Caching.md",
     "roadmap/leetcode/25. Reverse Nodes in k-Group.md",
+    "roadmap/leetcode/763. Partition Labels.md",
     "interview dtl/Roadmap.md",
     "Pasted image 20250118150922.png",
     "roadmap/languages/golang/Readings.md",
@@ -308,8 +310,6 @@
     "roadmap/backend/Memory, Persistence and Caching/Storage Engines and Distributed  Databases/Storage Engines/postgres/postgres.md",
     "roadmap/backend/Memory, Persistence and Caching/Storage Engines and Distributed  Databases/Storage Engines/Storage Engines.md",
     "roadmap/backend/Memory, Persistence and Caching/Storage Engines and Distributed  Databases/Distributed Storage Design/Database Design Principles/CAP and PACELC Theorem.md",
-    "roadmap/backend/Memory, Persistence and Caching/Memory, Persistence and Caching.md",
-    "roadmap/backend/Systems Programming/Distributed Computing/multithreading and multiprocessing/synchronization techniques/lock free algorithms.md",
     "roadmap/backend/Systems Programming/Distributed Computing/multithreading and multiprocessing/Distributed Computing.md",
     "roadmap/backend/Systems Programming/Distributed Computing/multithreading and multiprocessing/atomi",
     "roadmap/backend/Systems Programming/Distributed Computing/multithreading and multiprocessing/Threads/Kavya Joshi.png",

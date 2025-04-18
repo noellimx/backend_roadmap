@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "roadmap/aws/AWS Certified Developer - Associate/cantrill/999_Route53/Route 53.md",
+                "file": "roadmap/aws/AWS Certified Developer - Associate/andrewbrown/Materials and Notes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Route 53"
+              "title": "Materials and Notes"
             }
           }
         ],
@@ -116,7 +116,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "roadmap/aws/AWS Certified Developer - Associate/cantrill/999_Route53/Route 53.md",
+                "file": "roadmap/aws/AWS Certified Developer - Associate/andrewbrown/Materials and Notes.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -144,7 +144,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Route 53"
+              "title": "Graph of Materials and Notes"
             }
           }
         ]
@@ -291,8 +291,10 @@
   },
   "active": "b784eb829b0230f7",
   "lastOpenFiles": [
-    "roadmap/aws/AWS Certified Developer - Associate/cantrill/tasks.md",
     "roadmap/aws/AWS Certified Developer - Associate/cantrill/999_Route53/Route 53.md",
+    "roadmap/aws/AWS Certified Developer - Associate/andrewbrown/Materials and Notes.md",
+    "roadmap/aws/AWS Certified Developer - Associate/andrewbrown",
+    "roadmap/aws/AWS Certified Developer - Associate/cantrill/tasks.md",
     "roadmap/aws/AWS Certified Developer - Associate/cantrill/999_Route53",
     "roadmap/aws/AWS Certified Developer - Associate/cantrill/003_Fundamentals/Fundamentals.md",
     "roadmap/leetcode/25. Reverse Nodes in k-Group.md",
@@ -324,7 +326,6 @@
     "roadmap/aws/cert roadmap.png",
     "readings/reading list.md",
     "roadmap/aws/cert roadmap.md",
-    "roadmap/aws/AWS Certified Developer - Associate/cantrill/004 IAM, ACCOUNTS AND AWS ORGANISATIONS/004 IAM, ACCOUNTS AND AWS ORGANISATIONS.md",
     "roadmap/leetcode/763. Partition Labels.py",
     "roadmap/leetcode/763. Partition Labels.m",
     "roadmap/leetcode",
@@ -336,7 +337,6 @@
     "media/png/diffie_hellman.png",
     "roadmap/aws/AWS Certified Developer - Associate/cantrill/013 Relational Database Service",
     "roadmap/aws/AWS Certified Developer - Associate/cantrill/010 Advance EC2",
-    "roadmap/aws/AWS Certified Developer - Associate/cantrill/009 Elastic Container Service and Elastic Container Registry",
     "roadmap/backend/Security/Protocols/Diffe Helmann/Untitled.canvas",
     "roadmap/backend/Untitled.canvas"
   ]

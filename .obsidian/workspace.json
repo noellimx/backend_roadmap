@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "roadmap/leetcode/25. Reverse Nodes in k-Group.md",
+                "file": "roadmap/aws/AWS Certified Developer - Associate/cantrill/999_Route53/Route 53.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "25. Reverse Nodes in k-Group"
+              "title": "Route 53"
             }
           }
         ],
@@ -116,7 +116,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "roadmap/leetcode/25. Reverse Nodes in k-Group.md",
+                "file": "roadmap/aws/AWS Certified Developer - Associate/cantrill/999_Route53/Route 53.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -144,7 +144,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 25. Reverse Nodes in k-Group"
+              "title": "Graph of Route 53"
             }
           }
         ]
@@ -179,7 +179,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "route53",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -291,9 +291,13 @@
   },
   "active": "b784eb829b0230f7",
   "lastOpenFiles": [
+    "roadmap/aws/AWS Certified Developer - Associate/cantrill/tasks.md",
+    "roadmap/aws/AWS Certified Developer - Associate/cantrill/999_Route53/Route 53.md",
+    "roadmap/aws/AWS Certified Developer - Associate/cantrill/999_Route53",
+    "roadmap/aws/AWS Certified Developer - Associate/cantrill/003_Fundamentals/Fundamentals.md",
+    "roadmap/leetcode/25. Reverse Nodes in k-Group.md",
     "roadmap/backend/Systems Programming/Distributed Computing/multithreading and multiprocessing/synchronization techniques/lock free algorithms.md",
     "roadmap/backend/Memory, Persistence and Caching/Memory, Persistence and Caching.md",
-    "roadmap/leetcode/25. Reverse Nodes in k-Group.md",
     "roadmap/leetcode/763. Partition Labels.md",
     "interview dtl/Roadmap.md",
     "Pasted image 20250118150922.png",
@@ -323,10 +327,7 @@
     "roadmap/aws/AWS Certified Developer - Associate/cantrill/004 IAM, ACCOUNTS AND AWS ORGANISATIONS/004 IAM, ACCOUNTS AND AWS ORGANISATIONS.md",
     "roadmap/leetcode/763. Partition Labels.py",
     "roadmap/leetcode/763. Partition Labels.m",
-    "roadmap/backend/Memory, Persistence and Caching/Storage Engines and Distributed  Databases/Distributed Storage Design/Concurrency Control/Concurrency Control.md",
     "roadmap/leetcode",
-    "roadmap/aws/AWS Certified Developer - Associate/cantrill/003_Fundamentals/Fundamentals.md",
-    "roadmap/aws/Amazon Web Services.md",
     "roadmap/aws/AWS Certified Developer - Associate/cantrill/003_Fundamentals/vpc_fundamental.png",
     "media/png/memory hierarchy.png",
     "media/png/Von_Neumann_Architecture.svg.png",
@@ -336,7 +337,6 @@
     "roadmap/aws/AWS Certified Developer - Associate/cantrill/013 Relational Database Service",
     "roadmap/aws/AWS Certified Developer - Associate/cantrill/010 Advance EC2",
     "roadmap/aws/AWS Certified Developer - Associate/cantrill/009 Elastic Container Service and Elastic Container Registry",
-    "roadmap/aws/AWS Certified Developer - Associate/cantrill/008 Monitoring and Logging with CloudWatch",
     "roadmap/backend/Security/Protocols/Diffe Helmann/Untitled.canvas",
     "roadmap/backend/Untitled.canvas"
   ]

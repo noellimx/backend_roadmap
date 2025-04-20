@@ -104,50 +104,7 @@
             }
           }
         ],
-        "currentTab": 3
-      },
-      {
-        "id": "eddf6f5c8beaf277",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2af754c96c6b2b40",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "roadmap/aws/AWS Certified Developer - Associate/andrewbrown/Materials and Notes.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 2,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": true,
-                  "showAttachments": true,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": false,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of Materials and Notes"
-            }
-          }
-        ]
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -179,7 +136,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "route53",
+                "query": "aws",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -289,10 +246,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b784eb829b0230f7",
+  "active": "6a530d88365a7493",
   "lastOpenFiles": [
-    "roadmap/aws/AWS Certified Developer - Associate/cantrill/999_Route53/Route 53.md",
     "roadmap/aws/AWS Certified Developer - Associate/andrewbrown/Materials and Notes.md",
+    "roadmap/backend/Memory, Persistence and Caching/Memory Node Architecture/Memory Architecture.md",
+    "roadmap/backend/Memory, Persistence and Caching/Storage Engines and Distributed  Databases/Distributed Storage Design/Cache Coherence/Cache Coherence.md",
+    "roadmap/aws/Amazon Web Services.md",
+    "roadmap/aws/AWS Certified Developer - Associate/cantrill/004 IAM, ACCOUNTS AND AWS ORGANISATIONS/004 IAM, ACCOUNTS AND AWS ORGANISATIONS.md",
+    "roadmap/aws/AWS Certified Developer - Associate/cantrill/999_Route53/Route 53.md",
     "roadmap/aws/AWS Certified Developer - Associate/andrewbrown",
     "roadmap/aws/AWS Certified Developer - Associate/cantrill/tasks.md",
     "roadmap/aws/AWS Certified Developer - Associate/cantrill/999_Route53",
@@ -308,9 +269,7 @@
     "roadmap/backend/Memory, Persistence and Caching/Storage Engines and Distributed  Databases/Distributed Storage Design/Database Design Principles/Database Design Principles.md",
     "roadmap/backend/Memory, Persistence and Caching/Storage Engines and Distributed  Databases/Distributed Storage Design/Distributed Storage Design.md",
     "roadmap/backend/Memory, Persistence and Caching/Storage Engines and Distributed  Databases/storage engines and distributed database.md",
-    "roadmap/backend/Memory, Persistence and Caching/Memory Node Architecture/Memory Architecture.md",
     "roadmap/aws/AWS Certified Developer - Associate/cantrill/007_002_Elastic Block Storage/EBS.md",
-    "roadmap/backend/Memory, Persistence and Caching/Storage Engines and Distributed  Databases/Distributed Storage Design/Cache Coherence/Cache Coherence.md",
     "roadmap/backend/Systems Programming/Distributed Computing/multithreading and multiprocessing/Memory Consistency Model/Memory Consistency Model.md",
     "media/pdf/papers/A Primer on Memory Consistency and Cache Coherence - 2nd Edition.pdf",
     "roadmap/backend/Memory, Persistence and Caching/Storage Engines and Distributed  Databases/Storage Engines/postgres/postgres.md",
@@ -324,8 +283,6 @@
     "interview dtl",
     "roadmap/aws/specialty.png",
     "roadmap/aws/cert roadmap.png",
-    "readings/reading list.md",
-    "roadmap/aws/cert roadmap.md",
     "roadmap/leetcode/763. Partition Labels.py",
     "roadmap/leetcode/763. Partition Labels.m",
     "roadmap/leetcode",

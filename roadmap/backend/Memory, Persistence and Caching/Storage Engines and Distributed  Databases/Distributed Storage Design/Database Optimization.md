@@ -8,6 +8,7 @@ Performant Read vs Performant Write
 ### scans
 
 - [ ] bitmap scan
+	- [ ] BRIN Indexes in Postgres: https://youtu.be/l6xJE8UmWac?si=eAPgDSD0kYf040hC
 - [ ] index scan
 
 ### join strategies

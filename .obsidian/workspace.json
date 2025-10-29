@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "roadmap/backend/Memory, Persistence and Caching/Storage Engines and Distributed  Databases/Distributed Storage Design/Database Optimization.md",
+                "file": "roadmap/backend/Memory, Persistence and Caching/x86 paging/x86 paging.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Database Optimization"
+              "title": "x86 paging"
             }
           },
           {
@@ -136,7 +136,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "index",
+                "query": "memory",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -157,8 +157,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -250,11 +249,16 @@
   },
   "active": "6a530d88365a7493",
   "lastOpenFiles": [
+    "roadmap/backend/Memory, Persistence and Caching/Memory Node Architecture/Registers.md",
+    "roadmap/backend/Memory, Persistence and Caching/x86 paging/x86 paging.md",
+    "roadmap/backend/Memory, Persistence and Caching/x86 paging",
+    "roadmap/backend/Memory, Persistence and Caching/Memory Node Architecture/Memory Architecture.md",
+    "roadmap/backend/Memory, Persistence and Caching/Storage Engines and Distributed  Databases/Distributed Storage Design/Cache Coherence/Cache Coherence.md",
+    "roadmap/aws/AWS Certified Developer - Associate/cantrill/009 Elastic Container Service and Elastic Container Registry/009 001 Elastic Container Service (ECS).md",
+    "roadmap/backend/Memory, Persistence and Caching/Storage Engines and Distributed  Databases/Distributed Storage Design/Database Optimization.md",
     "interview dtl/Interview - DTL.md",
     "interview dtl/Roadmap.md",
     "roadmap/aws/AWS Certified Developer - Associate/andrewbrown/Materials and Notes.md",
-    "roadmap/backend/Memory, Persistence and Caching/Memory Node Architecture/Memory Architecture.md",
-    "roadmap/backend/Memory, Persistence and Caching/Storage Engines and Distributed  Databases/Distributed Storage Design/Cache Coherence/Cache Coherence.md",
     "roadmap/aws/Amazon Web Services.md",
     "roadmap/aws/AWS Certified Developer - Associate/cantrill/004 IAM, ACCOUNTS AND AWS ORGANISATIONS/004 IAM, ACCOUNTS AND AWS ORGANISATIONS.md",
     "roadmap/aws/AWS Certified Developer - Associate/cantrill/999_Route53/Route 53.md",
@@ -276,12 +280,8 @@
     "roadmap/backend/Systems Programming/Distributed Computing/multithreading and multiprocessing/Memory Consistency Model/Memory Consistency Model.md",
     "media/pdf/papers/A Primer on Memory Consistency and Cache Coherence - 2nd Edition.pdf",
     "roadmap/backend/Memory, Persistence and Caching/Storage Engines and Distributed  Databases/Storage Engines/postgres/postgres.md",
-    "roadmap/backend/Memory, Persistence and Caching/Storage Engines and Distributed  Databases/Storage Engines/Storage Engines.md",
-    "roadmap/backend/Memory, Persistence and Caching/Storage Engines and Distributed  Databases/Distributed Storage Design/Database Design Principles/CAP and PACELC Theorem.md",
-    "roadmap/backend/Systems Programming/Distributed Computing/multithreading and multiprocessing/Distributed Computing.md",
     "roadmap/backend/Systems Programming/Distributed Computing/multithreading and multiprocessing/atomi",
     "roadmap/backend/Systems Programming/Distributed Computing/multithreading and multiprocessing/Threads/Kavya Joshi.png",
-    "roadmap/backend/internet/content/network/Communication Protocols.md",
     "interview dtl",
     "roadmap/aws/specialty.png",
     "roadmap/aws/cert roadmap.png",
@@ -295,7 +295,6 @@
     "media/png/diffie_hellman2.png",
     "media/png/diffie_hellman.png",
     "roadmap/aws/AWS Certified Developer - Associate/cantrill/013 Relational Database Service",
-    "roadmap/aws/AWS Certified Developer - Associate/cantrill/010 Advance EC2",
     "roadmap/backend/Security/Protocols/Diffe Helmann/Untitled.canvas",
     "roadmap/backend/Untitled.canvas"
   ]
